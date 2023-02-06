@@ -1,4 +1,4 @@
-# Fabric Example Mod - Parchment Mappings
+# Fabric Example Mod
 
 ## Setup
 
